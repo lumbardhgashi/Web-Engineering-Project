@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#d02{
+    width: 100%;
+    height: 1000px;
+    border: black 2px solid;
+    background-image: url('https://i0.wp.com/u.realgeeks.media/jerrymachomes/house1.jpg');
+}
+
+#d03{
+    width: 70%;
+    height: 500px;
+    margin-top: 40%;
+    margin-left: 15%;
+    
+   
+}
+
+#d04{
+    width: 100%;
+    height: 600px;
+    margin-top: 18%;
+    
+    background-color: white;
+}
+
+#d0401{
+    width: 100%;
+    height: 70%;
+    background-image: url('ContactImg.jpg');
+       
+}
+
+#d0402{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(44, 42, 42);
+}
+
+#d040201{
+    width: 33%;
+    height: 99%;
+    float: left; 
+}
+#d040202{
+    width: 33%;
+    height: 99%;
+    
+    float: left;
+}
+#d040203{
+    width: 33%;
+    height: 99%;
+    
+    float: left;
+}
+.a:hover {
+    color: red;
+    background-color:darkcyan;
+    cursor: pointer;
+  }

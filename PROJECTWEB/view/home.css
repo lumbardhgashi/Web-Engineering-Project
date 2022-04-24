@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#d02{
+  
+    width: 100%;
+    height: 750px;
+    background-image: url('https://www.claytonhoteldublinairport.com/wp-content/uploads/sites/4/2018/10/Clayton-Hotel-Dublin-Airport.jpg'); 
+}
+
+#meetUs{
+    margin-top: -15%;
+    margin-left: 10%;
+    width: 350px;
+    height: 200px;
+   
+}
+body{
+    background-color: cornflowerblue;
+}
+  .button:hover {
+    color: blue;
+    cursor: pointer;
+  }
+  

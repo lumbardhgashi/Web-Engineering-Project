@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background-color: cornflowerblue;
+  }
+  
+   
+   
+  #d01{
+    flex-basis: auto;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(155, 138, 125);
+  }
+  #BigOne{
+   
+    width: 100%;
+    height: 700px;
+  
+   
+   
+  }
+  #BigOne01{
+    width: 48%;
+    height: 340px;
+   
+    float: left;
+   
+  }
+  #BigOne02{
+    width: 48%;
+    height: 340px;
+  
+    float: right;
+  }
+  #BigOne03{
+    width: 48%;
+    height: 340px;
+    
+    float: left;
+    margin-top: 10px;
+  }
+  #BigOne04{
+    width: 48%;
+    height: 340px;
+    
+    float: right;
+    margin-top: 10px;
+  }
+  
+  #BigOne0101{
+    width: 75%;
+    height: 280px;
+    
+    float: left;
+  }
+  
+  #BigOne0102{
+   width: 23.9%;
+   height: 335px;
+  
+   float: right;
+   background-image: url('https://static9.depositphotos.com/1614195/1079/i/950/depositphotos_10796021-stock-photo-abstract-background.jpg');
+  }
+  #BigOne0103{
+    width: 75%;
+    height: 55px;
+    
+    float: left;
+    background-color: white;
+  }
+  
+  #BigOne0201{
+    width: 75%;
+    height: 280px;
+    
+    float: left;
+  }
+  
+  #BigOne0202{
+    width: 23.9%;
+    height: 335px;
+    
+    float: right;
+    background-image: url('https://static9.depositphotos.com/1614195/1079/i/950/depositphotos_10796021-stock-photo-abstract-background.jpg');
+  }
+  #BigOne0203{
+    width: 75%;
+    height: 55px;
+    
+    float: left;
+    background-color: white;
+  }
+  
+  #BigOne0301{
+    width: 75%;
+    height: 280px;
+   
+    float: left;
+  }
+  
+  #BigOne0302{
+    width: 23.9%;
+    height: 335px;
+    
+    float: right;
+    background-image: url('https://static9.depositphotos.com/1614195/1079/i/950/depositphotos_10796021-stock-photo-abstract-background.jpg');
+  }
+  #BigOne0303{
+    width: 75%;
+    height: 55px;
+    
+    float: left;
+    background-color: white;
+  }
+  
+  #BigOne0401{
+    width: 75%;
+    height: 280px;
+    
+    float: left;
+  }
+  
+  #BigOne0402{
+    width: 23.9%;
+   height: 335px;
+   
+   float: right;
+   background-image: url('https://static9.depositphotos.com/1614195/1079/i/950/depositphotos_10796021-stock-photo-abstract-background.jpg');
+  }
+  #BigOne0403{
+    width: 75%;
+    height: 55px;
+    
+    float: left;
+    background-color: white;
+  }
+  .a:hover {
+    background-color:darkcyan;
+    cursor: pointer;
+  }
